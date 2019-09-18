@@ -25,4 +25,4 @@ BackgroundColour=29,31,33
 CursorColour=253,157,79
 CursorType=block
 Transparency=low
-ScrollbackLines=5000
+ScrollbackLines=10000
